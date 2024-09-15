@@ -6,9 +6,9 @@ The transmission of an example SMS message looks as follows:
     VBD → BTS → BSC → ··· → BTS → VRD
 
 where
-- VRD - virtual sending device 
+- VBD - virtual sending device 
 - BTS - base station 
 - BSC - controller station 
-- VBD - virtual sending device 
+- VRD - virtual sending device
 
     
