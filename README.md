@@ -9,6 +9,6 @@ where
 - VBD - virtual sending device 
 - BTS - base station 
 - BSC - controller station 
-- VRD - virtual sending device
+- VRD - virtual receiving device
 
     
